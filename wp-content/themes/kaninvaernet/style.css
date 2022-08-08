@@ -1,0 +1,25 @@
+/**
+Theme Name: kaninvaernet
+Text Domain: kaninvaernet
+Template: twentytwenty
+*/
+
+body, body>* {
+  margin: 0;
+  padding: 0;
+}
+
+section.splash {
+  height: 80%;
+  width: 100vw;
+}
+section.splash>video {
+  height: 80%;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+}
+
+h1 {
+  color: aqua;
+}
